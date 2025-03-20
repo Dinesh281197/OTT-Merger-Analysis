@@ -47,31 +47,37 @@ variations by user demographics.
 ## Homepage
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Performance%20Overview.png' height="400">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Homepage.png' height="400">
+</p>
+
+## Key Notes
+
+<p align="center">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Key_Note.png' height="400">
 </p>
 
 ## Performance Overview
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Performance%20Overview.png' height="400">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Performance_Overview.png' height="400">
 </p>
 
 ## User Insights and Engagements
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Revenue%20Analysis.png' height="400">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/User_Insights_%26_Engagement.png' height="400">
 </p>
 
 ## Subscription Trends and Revenue
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Booking%20Analysis.png' height="400">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Subscription_Trends_%26_Revenue.png' height="400">
 </p>
 
 ## Content Library and Language Analysis
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Booking%20Analysis.png' height="400">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Content_Library_%26_Language_Analysis.png' height="400">
 </p>
 
 ## What I Learned from My OTT Merger Analysis Project
