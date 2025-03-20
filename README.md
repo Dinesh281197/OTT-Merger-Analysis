@@ -93,7 +93,7 @@ variations by user demographics.
 ▶ **KPI Analysis:** Interpreting **growth rates, revenue trends, and performance metrics** to drive strategic recommendations.  
 ▶ **Correlation Analysis:** Exploring relationships between **inactive users and watch time trends** for better retention strategies.  
 
-### **Key Learnings:**  
+### **Other Key Learnings:**  
 ▶ Data-driven decision-making is **crucial for OTT success**—from content planning to pricing strategies.  
 ▶ **User engagement patterns** vary significantly based on **demographics, city tiers, and platform offerings**.  
 ▶ Mergers in the OTT space can leverage **content strengths & pricing models** to optimize market share.  
