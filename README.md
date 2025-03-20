@@ -41,7 +41,7 @@ variations by user demographics.
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Data%20Model.png' height="400">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Content.png' height="400">
 </p>
 
 ## Performance Overview
