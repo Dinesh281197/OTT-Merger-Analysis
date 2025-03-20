@@ -32,13 +32,13 @@ plans.
 6. Content Consumption Behavior: Patterns in total watch time, device preferences, and
 variations by user demographics. 
 
-## Data Model
+## Data Model for User Data and User Content Consumption Tables
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Data%20Model.png' height="400">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/User_Data_%26_Content_Consumpstion.png' height="400">
 </p>
 
-## Data Model
+## Data Model for Content Tables
 
 <p align="center">
     <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Content.png' height="400">
