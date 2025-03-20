@@ -44,6 +44,12 @@ variations by user demographics.
     <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Content.png' height="400">
 </p>
 
+## Homepage
+
+<p align="center">
+    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Performance%20Overview.png' height="400">
+</p>
+
 ## Performance Overview
 
 <p align="center">
