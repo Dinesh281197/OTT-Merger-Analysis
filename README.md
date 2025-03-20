@@ -1,6 +1,6 @@
 # OTT-Merger-Analysis
 
-As part of the Codebasics September month resume challenge, I have worked on this Analysis project.
+As part of the Codebasics Resume Challenge #14, I have worked on this Analysis project.
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
