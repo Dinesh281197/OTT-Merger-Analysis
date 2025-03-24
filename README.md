@@ -55,7 +55,7 @@ variations by user demographics.
 ## Key Notes
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Key_Note.png' height="400">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/KeyNotes%20View.png' height="400">
 </p>
 
 ## Performance Overview
@@ -73,7 +73,7 @@ variations by user demographics.
 ## Subscription Trends and Revenue
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Subscription_Trends_%26_Revenue.png' height="400">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Subsciption%20trends%20%26%20Revenue%20View.png' height="400">
 </p>
 
 ## Content Library and Language Analysis
