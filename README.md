@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2672aa79-5654-46e7-b6a6-da21f2dc671f)![image](https://github.com/user-attachments/assets/e74c9161-a1ef-4234-972f-5cf1e1614e0d)# OTT-Merger-Analysis
+# OTT-Merger-Analysis
 
 As part of the Codebasics Resume Challenge #14, I have worked on this Analysis project.
 
@@ -117,8 +117,6 @@ variations by user demographics.
 - Jotstar has nearly 2X the content of LioCinema.
 - Jotstar has a higher upgrade rate, while LioCinema experiences a higher downgrade rate.
 - Jotstar maintains an overall ratio of 1.9 (>1), indicating that for every downgrade, there are still 1.9 upgrades, keeping it in a healthy position.
-- LioCinema’s overall ratio stands at 0.2 (<1), indicating that for every downgrade, only 0.2 users upgrade—a clear sign of retention challenges.
-- Jotstar outperforms LioCinema in converting free users to paid subscribers, with an overall transition rate nearly 7x higher.
+- LioCinema’s overall ratio stands at 0.2 (<1), indicating that for every downgrade, only 0.2 users upgrade a clear sign of retention challenges.
 - Jotstar has generated 2X more revenue than LioCinema during the analysis period.
-
-
+- Jotstar outperforms LioCinema in converting free users to paid subscribers, with an overall transition rate nearly 7x higher.
