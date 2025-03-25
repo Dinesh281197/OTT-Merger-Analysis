@@ -35,7 +35,7 @@ variations by user demographics.
 
 ## Data Sources
 The dashboard gathers data from:
-MySQL Database: Essential data are pulled from MySQL database which has two SQL files 'Jotstar_db.sql' and Liocinema_db.sql'.
+MySQL Database: Essential data are pulled from MySQL database consisting of two SQL files 'Jotstar_db.sql' and Liocinema_db.sql'.
 Both SQL files consist of Subscribers table, Content table, and Content Consumption table.
 
 ## Data Model for User Data and User Content Consumption Tables
