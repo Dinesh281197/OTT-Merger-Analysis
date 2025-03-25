@@ -1,6 +1,6 @@
 # OTT-Merger-Analysis
 
-As part of the Codebasics Resume Challenge #14, I have worked on this Analysis project.
+As part of the Codebasics Resume Challenge #14, I Created this Data Analytics Project
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
@@ -20,19 +20,23 @@ and downgrade trends. The insights derived from this study will help the managem
 informed decisions and optimize content strategies post-merger, with the ultimate goal of
 establishing Lio-Jotstar as the leading OTT platform in India.
 
-
 ### Task List
 
 The management expects detailed insights into the following:
 
 1. Content Library Analysis: A detailed comparison of content types across both platforms.
 2. Subscriber Insights: Analyse trends in subscriber acquisition and demographic variations.
-3. Inactivity Analysis: Patterns of inactivity across age groups, city tiers, and subscription
+3. Inactivity Analysis: Inactivity patterns across age groups, city tiers, and subscription
 plans.
 4. Upgrade Patterns: Insights into subscription upgrades and their influencing factors.
 5. Downgrade Patterns: Analysis of subscription downgrades and associated trends.
 6. Content Consumption Behavior: Patterns in total watch time, device preferences, and
 variations by user demographics. 
+
+## Data Sources
+The dashboard gathers data from:
+MySQL Database: Essential data are pulled from MySQL database which has two SQL files 'Jotstar_db.sql' and Liocinema_db.sql'.
+Both SQL files consist of Subscribers table, Content table, and Content Consumption table.
 
 ## Data Model for User Data and User Content Consumption Tables
 
