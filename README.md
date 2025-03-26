@@ -1,10 +1,12 @@
 # OTT-Merger-Analysis
 
-As part of the Codebasics Resume Challenge #14, I Created this Data Analytics Project
+As part of the Codebasics Resume Challenge #14, I created this Data Analytics Project
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2JjZTcwZTUtMTIzMC00ZTZhLWE4YzQtNDkyMWRhYmVjMDA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+Link to [Dashboard Video Presentation](https://youtu.be/UpXF6MSe2Ok)
 
 ## Problem Statement
 Lio, a leading telecommunications provider in India, is planning a strategic merger with
