@@ -10,8 +10,6 @@ Link to [PowerPoint presentation File](https://github.com/Dinesh281197/OTT-Merge
 
 Link to [Dashboard Video Presentation](https://youtu.be/UpXF6MSe2Ok)
 
-Here's a professional and concise way to present your **Project Overview**, **Challenge**, and **My Task** sections for your portfolio, resume, or presentation:
-
 ---
 
 ###  **Project Overview**
