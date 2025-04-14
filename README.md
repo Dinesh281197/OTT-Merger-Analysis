@@ -4,11 +4,11 @@ As part of the Codebasics Resume Challenge #14, I created this Data Analytics Pr
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2JjZTcwZTUtMTIzMC00ZTZhLWE4YzQtNDkyMWRhYmVjMDA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Link to the [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2JjZTcwZTUtMTIzMC00ZTZhLWE4YzQtNDkyMWRhYmVjMDA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Link to [PowerPoint presentation File](https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/OTT%20merger%20Analysis%20Presentation.pptx)
+Link to the [PowerPoint presentation File](https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/OTT%20merger%20Analysis%20Presentation.pptx)
 
-Link to [Dashboard Video Presentation](https://youtu.be/UpXF6MSe2Ok)
+Link to the [Dashboard Video Presentation](https://youtu.be/UpXF6MSe2Ok)
 
 ---
 
