@@ -96,7 +96,7 @@ Both SQL files consist of the Subscribers table, the Content table, and the Cont
 - **Content Strategy:** How **genre availability, language preferences, and content variety** shape audience retention and revenue.  
 
 ### **Data Analysis & Technical Skills:**  
-**SQL Expertise:** Extracting & analyzing data from **Jotstar.sql & LioCinema.sql** for insights on user behavior & revenue.  
+- **SQL Expertise:** Extracting & analyzing data from **Jotstar.sql & LioCinema.sql** for insights on user behavior & revenue.  
 - **Power BI Visualization:** Creating **dynamic dashboards** with slicers for a month, age group, city tier, and device type.  
 - **KPI Analysis:** Interpreting **growth rates, revenue trends, and performance metrics** to drive strategic recommendations.  
 - **Correlation Analysis:** Exploring relationships between **inactive users and watch time trends** for better retention strategies.  
