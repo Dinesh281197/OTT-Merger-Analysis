@@ -31,7 +31,7 @@ The end goal was to create a **data-driven foundation** for the merger strategy,
 ---
 
 ###  **My Task**
-As the analyst (a.k.a. *Peter Pandey*), my responsibilities included:
+As the analyst, my responsibilities included:
 - Reviewing metadata and performing an in-depth exploratory analysis
 - Answering core business questions using Power BI
 - Translating raw data into actionable insights through visuals
@@ -120,10 +120,11 @@ Both SQL files consist of the Subscribers table, the Content table, and the Cont
 - **Content Strategy:** How **genre availability, language preferences, and content variety** shape audience retention and revenue.  
 
 ### **Other Key Learnings:**  
+- **Optimizing DAX Measures** for Large-Scale Datasets
+- used **Power Query M language** to create additional datas 
 - Data-driven decision-making is **crucial for OTT success**—from content planning to pricing strategies.  
-- **User engagement patterns** vary significantly based on **demographics, city tiers, and platform offerings**.  
+- **User engagement patterns** vary significantly based on **age**, **city tiers**, and **platform offerings**.  
 - Mergers in the OTT space can leverage **content strengths & pricing models** to optimize market share. 
-- Optimizing DAX Measures for Large-Scale Datasets
 
 ## Conclusion
 
