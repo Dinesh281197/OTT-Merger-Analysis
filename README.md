@@ -40,18 +40,18 @@ As the analyst (a.k.a. *Peter Pandey*), my responsibilities included:
 - Designing a **comparison dashboard** that clearly illustrates differences and synergies between LioCinema and Jotstar
 - Presenting findings that support strategic decision-making for the merger
 
-## Data Sources
+## **Data Sources**
 The dashboard gathers data from:
 𝐌𝐲𝐒𝐐𝐋 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: Essential data is pulled from the MySQL database, consisting of two SQL files '𝐉𝐨𝐭𝐬𝐭𝐚𝐫_𝐝𝐛.𝐬𝐪𝐥' and '𝐋𝐢𝐨𝐜𝐢𝐧𝐞𝐦𝐚_𝐝𝐛.𝐬𝐪𝐥'.
 Both SQL files consist of the Subscribers table, the Content table, and the Content Consumption table.
 
-## Data Model for User Data and User Content Consumption Tables
+## **Data Model for User Data and User Content Consumption Tables**
 
 <p align="center">
     <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/User_Data_%26_Content_Consumpstion_Data_Model.png' height="400">
 </p>
 
-## Data Model for Content Tables
+## **Data Model for Content Tables**
 
 <p align="center">
     <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Content_Data_Model.png' height="400">
