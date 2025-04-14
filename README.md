@@ -6,6 +6,8 @@ Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-projec
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2JjZTcwZTUtMTIzMC00ZTZhLWE4YzQtNDkyMWRhYmVjMDA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+Link to [Powerpoint presenation]
+
 Link to [Dashboard Video Presentation](https://youtu.be/UpXF6MSe2Ok)
 
 ## Problem Statement
@@ -88,6 +90,21 @@ Both SQL files consist of the Subscribers table, the Content table, and the Cont
     <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Content_Library_%26_Language_Analysis.png' height="400">
 </p>
 
+## Approach
+
+- **Understanding the Questions**: Delved into 'primary_and_secondary_questions.pdf' to frame the analysis.
+- **Data Processing**:
+  - extracted data from MySQL
+  - learned and organized raw data using Power Query.
+- **Analysis**:
+  - Utilized Power BI for detailed analysis and interactive visualizations.
+- **Presentation**:
+  - Crafted an engaging video presentation.
+  - Aimed for clarity and precision in storytelling.
+- **Outcome**:
+  - Derived actionable insights and recommendations.
+  - Demonstrated capability in handling extensive datasets and presenting findings effectively.
+    
 ## What I Learned from My OTT Merger Analysis Project
 
 ### Domain Knowledge:
@@ -95,34 +112,14 @@ Both SQL files consist of the Subscribers table, the Content table, and the Cont
 - **Subscriber Behavior:** Identifying factors like **upgrade/downgrade trends, watch time, and churn rates** affecting platform performance.  
 - **Content Strategy:** How **genre availability, language preferences, and content variety** shape audience retention and revenue.  
 
-### **Data Analysis & Technical Skills:**  
-- **SQL Expertise:** Extracting & analyzing data from **Jotstar.sql & LioCinema.sql** for insights on user behavior & revenue.  
-- **Power BI Visualization:** Creating **dynamic dashboards** with slicers for a month, age group, city tier, and device type.  
-- **KPI Analysis:** Interpreting **growth rates, revenue trends, and performance metrics** to drive strategic recommendations.  
-- **Correlation Analysis:** Exploring relationships between **inactive users and watch time trends** for better retention strategies.  
-
 ### **Other Key Learnings:**  
 - Data-driven decision-making is **crucial for OTT success**—from content planning to pricing strategies.  
 - **User engagement patterns** vary significantly based on **demographics, city tiers, and platform offerings**.  
-- Mergers in the OTT space can leverage **content strengths & pricing models** to optimize market share.  
+- Mergers in the OTT space can leverage **content strengths & pricing models** to optimize market share. 
+- Optimizing DAX Measures for Large-Scale Datasets
 
-## Some Important insights from the Dashboard
+## Conclusion
 
-- LioCinema has more than 4X the user base of Jotstar.
-- Jotstar Dominates the 25-34 Age Segment – A significant portion of Jotstar's user base falls within this age group.
-- LioCinema Attracts a Younger Audience – The 18-24 age group prefers LioCinema, whereas Jotstar struggles to capture this demographic.
-- Jotstar’s Strength Lies in Tier 1 Cities – Most of its users come from metropolitan areas.
-- LioCinema Thrives in Tier 2 & Tier 3 Cities – It has a stronger presence in smaller cities, attracting a wider audience.
-- Paid Subscription Gap – A striking 72% of Jotstar’s users are paying subscribers(Premium OR VIP), while only 36% of LioCinema’s users(Premium or Basic) fall into the paid category.
-- Jotstar Leads in Engagement Across All Ages – With an 80%+ active rate, Jotstar maintains strong user participation across every age group.
-- LioCinema Struggles with Young Viewers – A 43% inactivity rate among the 18-24 age group suggests challenges in retaining younger audiences.
-- Jotstar’s Premium Users Are Highly Engaged – With a 95% active rate, Jotstar’s premium subscribers show strong retention, followed by an 86.2% active rate in the VIP plan.
-- LioCinema’s Premium Engagement Lags Behind – Its 77% active rate in the premium plan is notably lower than Jotstar’s 95% active rate in the Premium Plan.
-- Jotstar’s revenue has grown by ~11.8x from Jan (0.7M) to Nov (8.3M).
-- LioCinema’s revenue has grown by ~27.5x from Jan (0.2M) to Nov (5.5M), showing a strong acceleration in later months.
-- Jotstar has nearly 2X the content of LioCinema.
-- Jotstar has a higher upgrade rate, while LioCinema experiences a higher downgrade rate.
-- Jotstar maintains an overall ratio of 1.9 (>1), indicating that for every downgrade, there are still 1.9 upgrades, keeping it in a healthy position.
-- LioCinema’s overall ratio stands at 0.2 (<1), indicating that for every downgrade, only 0.2 users upgrade a clear sign of retention challenges.
-- Jotstar has generated 2X more revenue than LioCinema during the analysis period.
-- Jotstar outperforms LioCinema in converting free users to paid subscribers, with an overall transition rate nearly 7x higher.
+This Unguided project is a demonstration of my skills in data analysis, data visualization, and presentation design in a business context. It showcases my ability to derive and communicate actionable insights from data, which is crucial for data-driven decision-making in a corporate environment.
+
+Feel free to reach out for any questions or further details!
