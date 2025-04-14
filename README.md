@@ -6,36 +6,39 @@ Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-projec
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2JjZTcwZTUtMTIzMC00ZTZhLWE4YzQtNDkyMWRhYmVjMDA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Link to [Powerpoint presenation]
+Link to [Powerpoint presenation File]
 
 Link to [Dashboard Video Presentation](https://youtu.be/UpXF6MSe2Ok)
 
-## Problem Statement
-Lio, a leading telecommunications provider in India, is planning a strategic merger with
-Jotstar is one of the country’s most prominent streaming platforms. This potential partnership
-aims to combine LioCinema’s expansive subscriber base and Jotstar’s diverse content library
-to revolutionize digital streaming in India.
+Here's a professional and concise way to present your **Project Overview**, **Challenge**, and **My Task** sections for your portfolio, resume, or presentation:
 
-As part of the merger preparation, the management team at Lio wants to analyze the
-performance and user behavior of both platforms—LioCinema and Jotstar—over the past
-year (January to November 2024). The goal is to gain insights into individual platform
-performance, content consumption patterns, subscriber growth, Inactive behavior, and upgrade
-and downgrade trends. The insights derived from this study will help the management make
-informed decisions and optimize content strategies post-merger, with the ultimate goal of
-establishing Lio-Jotstar as the leading OTT platform in India.
+---
 
-### Task List
+###  **Project Overview**
+This project centers around a high-stakes strategic merger between **Lio**, a major Indian telecom company, and **Jotstar**, a top-tier OTT streaming platform. The proposed partnership aims to unify LioCinema’s robust subscriber base with Jotstar’s rich and diverse content library—forming a digital entertainment powerhouse in India.
 
-The management expects detailed insights into the following:
+To support informed decision-making, the leadership team at Lio commissioned a comprehensive performance and user behavior analysis of both platforms. The focus spans from **content consumption** and **subscriber growth trends** to **inactivity**, **upgrade/downgrade behavior**, and **content engagement** from January to November 2024.
 
-1. Content Library Analysis: A detailed comparison of content types across both platforms.
-2. Subscriber Insights: Analyse trends in subscriber acquisition and demographic variations.
-3. Inactivity Analysis: Inactivity patterns across age groups, city tiers, and subscription
-plans.
-4. Upgrade Patterns: Insights into subscription upgrades and their influencing factors.
-5. Downgrade Patterns: Analysis of subscription downgrades and associated trends.
-6. Content Consumption Behavior: Patterns in total watch time, device preferences, and
-variations by user demographics. 
+---
+
+###  **Challenge**
+The challenge was to dive deep into two large datasets representing LioCinema and Jotstar and extract insights that could directly influence merger decisions. This required:
+- Comparing content libraries and user engagement
+- Spotting inactivity trends and their triggers
+- Identifying key drivers for subscription upgrades or downgrades
+- Analyzing content watch-time patterns by demographics and devices
+
+The end goal was to create a **data-driven foundation** for the merger strategy, ensuring optimized content and user retention plans post-merger.
+
+---
+
+###  **My Task**
+As the analyst (a.k.a. *Peter Pandey*), my responsibilities included:
+- Reviewing metadata and performing an in-depth exploratory analysis
+- Answering core business questions using Power BI
+- Translating raw data into actionable insights through visuals
+- Designing a **comparison dashboard** that clearly illustrates differences and synergies between LioCinema and Jotstar
+- Presenting findings that support strategic decision-making for the merger
 
 ## Data Sources
 The dashboard gathers data from:
@@ -45,13 +48,13 @@ Both SQL files consist of the Subscribers table, the Content table, and the Cont
 ## Data Model for User Data and User Content Consumption Tables
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/User_Data_%26_Content_Consumpstion.png' height="400">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/User_Data_%26_Content_Consumpstion_Data_Model.png' height="400">
 </p>
 
 ## Data Model for Content Tables
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Content.png' height="400">
+    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Content_Data_Model.png' height="400">
 </p>
 
 ## Homepage
@@ -101,11 +104,13 @@ Both SQL files consist of the Subscribers table, the Content table, and the Cont
 - **Presentation**:
   - Crafted an engaging video presentation.
   - Aimed for clarity and precision in storytelling.
-- **Outcome**:
+  
+## Outcome
+
   - Derived actionable insights and recommendations.
   - Demonstrated capability in handling extensive datasets and presenting findings effectively.
     
-## What I Learned from My OTT Merger Analysis Project
+## What I Learned from this Project
 
 ### Domain Knowledge:
 - **OTT Industry Insights:** Understanding how **user engagement, subscription trends, and content distribution** impact platform growth.  
