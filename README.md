@@ -114,7 +114,7 @@ Both SQL files consist of the Subscribers table, the Content table, and the Cont
     
 ## What I Learned from this Project
 
-### Domain Knowledge:
+- **Domain Knowledge** of OTT Industry
 - **OTT Industry Insights:** Understanding how **user engagement, subscription trends, and content distribution** impact platform growth.  
 - **Subscriber Behavior:** Identifying factors like **upgrade/downgrade trends, watch time, and churn rates** affecting platform performance.  
 - **Content Strategy:** How **genre availability, language preferences, and content variety** shape audience retention and revenue.  
