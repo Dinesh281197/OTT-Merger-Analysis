@@ -118,13 +118,13 @@ Both SQL files consist of the Subscribers table, the Content table, and the Cont
 - **OTT Industry Insights:** Understanding how **user engagement, subscription trends, and content distribution** impact platform growth.  
 - **Subscriber Behavior:** Identifying factors like **upgrade/downgrade trends, watch time, and churn rates** affecting platform performance.  
 - **Content Strategy:** How **genre availability, language preferences, and content variety** shape audience retention and revenue.  
-
-### **Other Key Learnings:**  
-- **Optimizing DAX Measures** for Large-Scale Datasets
-- used **Power Query M language** to create additional datas 
 - Data-driven decision-making is **crucial for OTT success**—from content planning to pricing strategies.  
 - **User engagement patterns** vary significantly based on **age**, **city tiers**, and **platform offerings**.  
 - Mergers in the OTT space can leverage **content strengths & pricing models** to optimize market share. 
+
+### **Other Key Learnings:**  
+- **Optimizing DAX Measures** for Large-Scale Datasets.
+- used **Power Query M language** to create additional data.
 
 ## Conclusion
 
