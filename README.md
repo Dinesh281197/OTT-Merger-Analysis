@@ -32,7 +32,7 @@ The end goal was to create a **data-driven foundation** for the merger strategy,
 
 ###  **My Task**
 As the analyst, my responsibilities included:
-- Reviewing metadata and performing an in-depth exploratory analysis
+- Reviewing and Understanding metadata
 - Answering core business questions using Power BI
 - Translating raw data into actionable insights through visuals
 - Designing a **comparison dashboard** that clearly illustrates differences and synergies between LioCinema and Jotstar
