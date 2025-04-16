@@ -1,4 +1,4 @@
-# OTT-Merger-Analysis
+# Strategic-Merger-Analysis-Ott-Platform
 
 As part of the Codebasics Resume Challenge #14, I created this Data Analytics Project
 
