@@ -62,7 +62,7 @@ Both SQL files consist of the Subscribers table, the Content table, and the Cont
 ## Homepage
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/OTT-Merger-Analysis/blob/main/Report%20Screenshots/Homepage.png' height="400">
+    <img src='https://github.com/Dinesh281197/Strategic_Merger_Analysis-OTT_Platform/blob/main/Report%20Screenshots/Homepage.png' height="400">
 </p>
 
 ## Key Notes
